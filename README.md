@@ -1,1 +1,1 @@
-# --2
+- [ ] Ссылка на гугл [колаб](https://colab.research.google.com/drive/1874QqNVN6usQP2mTFFaJh4jtK_i5Aswp#scrollTo=qjo83Ds1NrNZ)
