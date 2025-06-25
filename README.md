@@ -11,6 +11,6 @@ ____
 - [ ] [Порядок действий для смены пароля](https://docs.google.com/document/d/1RW_eeRpuTqnITr04ps0tVmbne2F7E0xxNCysi8htWbs/edit?tab=t.0)
 - [ ] [контрольная работа по графикам](https://docs.google.com/document/d/13-DEpklFJ86PTsd_XL--e0u3o-XR2WQquTn5OQFL9hk/edit?usp=sharing)
 - [ ] Билет на экзамен [билет №7](https://docs.google.com/document/d/1VMAGT-f2-i5T_qjY1O7ORw84AoKylB8M_qvkXknkgys/edit?usp=sharing)
-      ## Участие в жизни техникума (саморазвитие)
+## Участие в жизни техникума (саморазвитие)
 _____
 [отчет о посещении лекций в Лужниках](https://docs.google.com/document/d/1iP6aef_rXWfyFa_p8ekS4bOlgT5HKDNnGcOSseiKlJY/edit?usp=sharing): фото, пересказ лекции, что пропробовали применить и запустить у себя дома
